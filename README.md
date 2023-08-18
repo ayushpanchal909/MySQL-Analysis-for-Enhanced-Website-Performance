@@ -1,4 +1,4 @@
-## mysql-project-1
+## MySQL Analysis for Enhanced Website Performance
 
 The series of SQL queries presented above aims to delve into various facets of a website's performance and user engagement to extract actionable insights for strategic decision-making. The primary objective is to thoroughly understand the dynamics of user behavior, conversion rates, and the impact of different marketing initiatives.
 
